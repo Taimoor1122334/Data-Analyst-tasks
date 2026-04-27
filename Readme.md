@@ -1,12 +1,8 @@
-<<<<<<< HEAD
 # Data Science & Analytics Internship Tasks - Completed Projects
-=======
-#  Data Science & Analytics Internship Tasks
->>>>>>> 41ae678ba4374238c8f10bfa0153e967ebddb30f
 
 This repository contains my completed work for the DevelopersHub Data Science & Analytics Internship. I worked through 5 different machine learning projects, covering data exploration, visualization, classification, and regression modeling. Each task is in its own folder with full code, analysis, and documentation.
 
-## 📋 Project Overview
+##  Project Overview
 
 As part of my internship, I completed 5 hands-on data science tasks using Python, pandas, scikit-learn, matplotlib, and seaborn. These projects demonstrate core skills in:
 - Data loading and preprocessing
@@ -18,15 +14,13 @@ As part of my internship, I completed 5 hands-on data science tasks using Python
 **Deadline:** May 15, 2026
 **Technologies:** Python, Jupyter Notebook, pandas, numpy, matplotlib, seaborn, scikit-learn
 
-## 📁 Task Structure
+##  Task Structure
 
 Each task is organized in its own folder with:
-- **Jupyter Notebook (.ipynb)** - Complete analysis with code, plots, and explanations
 - **Python script (.py)** - Helper functions and modular code
 - **README.md** - Task overview and instructions
-- **task_notes.md** - My planning notes and learnings
 
-## 🚀 Completed Tasks
+##  Completed Tasks
 
 ### 1. Exploring and Visualizing a Simple Dataset
 **Folder:** `task01_exploring_and_visualizing_a_simple_dataset/`
@@ -124,7 +118,7 @@ Each task is organized in its own folder with:
 
 **Results:** Single customers aged 25-35 in management roles showed highest acceptance rates.
 
-## 🛠️ How to Explore This Repository
+##  How to Explore This Repository
 
 1. **Clone the repository:**
    ```bash
@@ -144,7 +138,7 @@ Each task is organized in its own folder with:
 
 4. **Run the cells** to see the complete analysis, code execution, and visualizations.
 
-## 📊 Key Skills Demonstrated
+##  Key Skills Demonstrated
 
 - **Data Manipulation:** pandas for data loading, cleaning, and transformation
 - **Visualization:** matplotlib and seaborn for insightful plots and charts
@@ -153,7 +147,7 @@ Each task is organized in its own folder with:
 - **Problem Solving:** End-to-end project workflow from data to insights
 - **Documentation:** Clear code comments and analysis explanations
 
-## 🎯 What I Learned
+##  What I Learned
 
 This internship gave me hands-on experience with real data science workflows. I went from basic data exploration to building and evaluating ML models. The biggest takeaways were:
 - How to approach messy, real-world datasets
@@ -161,7 +155,7 @@ This internship gave me hands-on experience with real data science workflows. I 
 - Interpreting model results for business decisions
 - Writing clean, documented code that others can follow
 
-## 📞 Contact
+##  Contact
 
 If you have questions about any of these projects or want to discuss the implementations, feel free to reach out!
 
