@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Data Science & Analytics Internship Tasks - Completed Projects
+=======
+#  Data Science & Analytics Internship Tasks
+>>>>>>> 41ae678ba4374238c8f10bfa0153e967ebddb30f
 
 This repository contains my completed work for the DevelopersHub Data Science & Analytics Internship. I worked through 5 different machine learning projects, covering data exploration, visualization, classification, and regression modeling. Each task is in its own folder with full code, analysis, and documentation.
 
