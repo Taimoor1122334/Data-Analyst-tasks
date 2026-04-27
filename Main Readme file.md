@@ -1,4 +1,4 @@
-# DevelopersHub Data Science & Analytics Internship Tasks
+#  Data Science & Analytics Internship Tasks
 
 Welcome to your internship project! This workspace contains everything you need to complete the five data science tasks. Each task is in its own folder with all the files you'll need.
 
